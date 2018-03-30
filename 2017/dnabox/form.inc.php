@@ -1,0 +1,1 @@
+<title>DNA Box </title><h1>DNA Box </h1><div style=column-count:10><?=z();register_shutdown_function('z');function z(){echo str_repeat('</select></form><form><input type=file></form><form><select><option>== TempIate ==',rand(30,60));}?></select></form>

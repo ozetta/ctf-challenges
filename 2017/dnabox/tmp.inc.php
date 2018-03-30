@@ -1,0 +1,1 @@
+<?=str_replace(9,'DNA Box ','<title>9</title><i style=font-size:72;position:fixed;color:#bad;z-index:-1>'.str_repeat(10**14-1,77).'</i><b style=position:fixed;color:#def;z-index:-2>'.str_repeat('A C G T a c g t ',4**5).'</b><h1>9</h1>');
