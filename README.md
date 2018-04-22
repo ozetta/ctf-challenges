@@ -36,7 +36,7 @@ http://blog.samueltang.net/archives/382
 * `?username=()|&password` breaks csvdb1 and csvdb2
 * `?username=%27union%20select%20%27A%27--&password=A` breaks sqldb1 and sqldb2
 * `?username&password=A` breaks xmldb2
-* Good luck
+* Good lu**ck**
 
 
 
