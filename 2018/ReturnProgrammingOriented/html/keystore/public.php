@@ -1,0 +1,1 @@
+<html><head><title>Pretty Harmful Privacy (PHP) Public Key</title></head><body><h1>Fake Passphrase:</h1><input value="vxctf{lcase_and_underscore_only}" /></body></html>

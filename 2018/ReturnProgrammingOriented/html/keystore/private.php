@@ -1,0 +1,2 @@
+<?php if($_SERVER['REMOTE_ADDR']===$_SERVER['SERVER_ADDR']){$flag='<input value="vxctf{grep_rpo_gadgets_with_rop}" />';}else{$flag='<b>Forbidden: you are not accessing from localhost</b>';} ?>
+<html><head><title>Pretty Harmful Privacy (PHP) Private Key</title></head><body><h1>Real Passphrase:</h1><?=$flag;?></body></html>

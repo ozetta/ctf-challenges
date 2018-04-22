@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !index.php$
+RewriteCond %{QUERY_STRING} (.*)
+RewriteRule ^(.*)$ ./index.php?id=$1&%1 [L]
