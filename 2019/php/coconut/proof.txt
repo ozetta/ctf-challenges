@@ -1,0 +1,1 @@
+#!/bin/echo checkmate{S0me_uninteresting_passpharse}

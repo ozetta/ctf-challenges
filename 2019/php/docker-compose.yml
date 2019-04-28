@@ -1,0 +1,31 @@
+version: '3'
+
+services:
+  tomato:
+    build: "./tomato"
+    ports:
+      - "0.0.0.0:8001:80"
+  tangerine:
+    build: "./tangerine"
+    ports:
+      - "0.0.0.0:8002:80"
+  lemon:
+    build: "./lemon"
+    ports:
+      - "0.0.0.0:8003:80"
+  melon:
+    build: "./melon"
+    ports:
+      - "0.0.0.0:8004:80"
+  pear:
+    build: "./pear"
+    ports:
+      - "0.0.0.0:8005:80"
+  grapes:
+    build: "./grapes"
+    ports:
+      - "0.0.0.0:8006:80"
+  coconut:
+    build: "./coconut"
+    ports:
+      - "0.0.0.0:8007:80"
