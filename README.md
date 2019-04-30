@@ -9,11 +9,11 @@ Awfully Bad Challenges
 * [Lock Pick Duck](../../wiki/Lock-Pick-Duck) : injection
 * [Return Programming Oriented](../../wiki/Return-Programming-Oriented) : client-side attack
 
-## The Seven Sins of CTF
-* Gluttony: unnecessary PoW or brute-forcing
-* Envy: plagiarism
-* Lust: self-entertainment with niche topics researched only by the author
-* Sloth: patch the question to make the solution works
-* Greed: adding unnecessary parts to distract the main idea
-* Wrath: asymmetric efforts between the author and the players
-* Pride: adding unnecessary constraints to limit possible answers
+## The Seven Sins of CTF / PHP: Horrific Puzzle
+* [Gluttony](../../wiki/Gluttony-(Tomato)): unnecessary PoW or brute-forcing
+* [Envy](../../wiki/Envy-(Tangerine)): plagiarism
+* [Lust](../../wiki/Lust-(Lemon)): self-entertainment with niche topics researched only by the author
+* [Sloth](../../wiki/Sloth-(Melon)): patch the question to make the solution works
+* [Greed](../../wiki/Greed-(Pear)): adding unnecessary parts to distract the main idea
+* [Wrath](../../wiki/Wrath-(Grapes)): asymmetric efforts between the author and the players
+* [Pride](../../wiki/Pride-(Coconut)): adding unnecessary constraints to limit possible answers
