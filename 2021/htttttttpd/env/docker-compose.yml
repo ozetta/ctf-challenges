@@ -1,0 +1,6 @@
+version: "3.8"
+services:
+  htttttttpd:
+    build: .
+    ports:
+      - "8014:80"

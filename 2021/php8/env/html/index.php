@@ -1,0 +1,1 @@
+<?=($I=(1).(1)-11)&&@!str_contains(current($_GET[$I]??[1]),'l')?highlight_file(...$_GET[$I]??[__FILE__,1]):include('flag.php');
